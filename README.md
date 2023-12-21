@@ -1,4 +1,13 @@
-Olá, meu nome é Lucas Caffé Benatti. ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) ================== ================================================= ================================================= ========================= Desenvolvedor Frontend Web ---------------------- ---- Estou começando na área da programação * 🌍 Moro em Araraquara - SP * 🖥️ Veja meu portfólio em [Meu Portifólio](http://potifoliocaffecomdev.com.br)[](http://potifoliocaffecomdev.com.br) ) * ✉️ Você pode entrar em contato comigo em [meuemail@gmail.com](mailto:meuemail@gmail.com)[](mailto:meuemail@gmail.com) * 🧠 Estou aprendendo React.js * 🤝 Estou aberto a colaborar em projetos interessantes
+Olá, meu nome é Lucas Caffé Benatti. ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) 
+===============================================================================================================================================
+Desenvolvedor Frontend Web
+-------------------------- 
+Estou começando na área da programação
+* 🌍 Moro em Araraquara - SP
+* 🖥️ Veja meu portfólio em [Meu Portifólio](http://potifoliocaffecomdev.com.br)[](http://potifoliocaffecomdev.com.br) )
+* ✉️ Você pode entrar em contato comigo em [meuemail@gmail.com](mailto:meuemail@gmail.com)[](mailto:meuemail@gmail.com)
+* 🧠 Estou aprendendo React.js
+* 🤝 Estou aberto a colaborar em projetos interessantes
 
 <a href="https://www.twitch.tv/caffecomdev" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitch/status/caffecomdev?logo =twitchsx&style=for-the-badge&color=0891b2&labelColor=1c1917&label=TWITCH+STATUS" /></a>
 
