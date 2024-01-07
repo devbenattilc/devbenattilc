@@ -1,8 +1,8 @@
 # Faaala Dev, me chamo Lucas Benatti. ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 Desenvolvedor Web Front-end Possuo habilidades sólidas em desenvolvimento web, com domínio em HTML, CSS e JavaScript. Além disso, possuo experiência prática no framework Next.js, consolidando meu conhecimento na criação de aplicações web modernas e eficientes. 
 * Moro em Araraquara - SP
-* ✉️ Você pode entrar em contato comigo em [contatobenatti@gmail.com](mailto:contatobenatti@gmail.com)[](mailto:contatobenatti@gmail.com)
-* 🧠 Estou aprendendo Next.js
+* ✉️ Você pode entrar em contato comigo em [E-mail Pessoal](mailto:contatobenatti@gmail.com)[](mailto:contatobenatti@gmail.com)
+* 🧠 Estou aprendendo **Next.js** | **Tailwindcss**
 * 🤝 Estou aberto a colaborar em Projetos futuros
 * ⚡ Estou pronto para enfrentar vários desafios, adquirir conhecimento e transmitir o meu conhecimento.
 
@@ -16,16 +16,9 @@ Desenvolvedor Web Front-end Possuo habilidades sólidas em desenvolvimento web, 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white)
-
 ### Feramentas que uso:
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-
-### Onde pode me encontrar:
-
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 
 ### Distintivos
 
